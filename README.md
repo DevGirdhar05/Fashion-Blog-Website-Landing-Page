@@ -45,7 +45,7 @@ project 1 skillop/
 
 ## Preview
 
-<video src="preview.mp4" controls width="600"></video>
+Check out the demo video here: [Watch on Vimeo](https://vimeo.com/1038476999?share=copy)
 
 ## Contact
 
