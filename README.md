@@ -12,7 +12,7 @@ This is a stylish and responsive landing page for a fashion blog. The project is
 ## Project Structure
 
 ```
-project 1 skillop/
+Fashion Blog Website Landing Page/
 ├── index.html          # Main HTML file
 ├── style.css           # Stylesheet for the project
 ├── background_image.png  # Background image for the page
@@ -30,7 +30,7 @@ project 1 skillop/
 
 2. Navigate to the project directory:
    ```bash
-   cd Fashion Blog
+   cd Fashion Blog Landing Page
    ```
 
 3. Open the `index.html` file in your preferred web browser to view the page.
