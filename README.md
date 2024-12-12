@@ -47,8 +47,10 @@ project 1 skillop/
 
 <video src="preview.mp4" controls width="600"></video>
 
-##Contact
+## Contact
 
-Author : Dev
-GitHub : DevGirdhar05
+- **Author**: Dev
+- **GitHub**: [DevGirdhar05](https://github.com/DevGirdhar05)
+
+
 
