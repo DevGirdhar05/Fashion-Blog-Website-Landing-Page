@@ -25,7 +25,7 @@ project 1 skillop/
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/DevGirdhar05/Fashion-Blog-Website-Landing-Page.git
    ```
 
 2. Navigate to the project directory:
