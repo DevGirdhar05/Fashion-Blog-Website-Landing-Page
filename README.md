@@ -30,7 +30,7 @@ project 1 skillop/
 
 2. Navigate to the project directory:
    ```bash
-   cd project-1-skillop
+   cd Fashion Blog
    ```
 
 3. Open the `index.html` file in your preferred web browser to view the page.
